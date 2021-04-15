@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "LasherKJ.github.io"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Front End Developer"
@@ -25,14 +25,14 @@ title = "Kevin Lasher"
 author = "Kevin Lasher"
 #copyright = "2020-2021"
 description = "Front End Developer"
-profilePicture = "images/profile.jpeg"
+profilePicture = "images/profile.png"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["post"]
+mainSections = []
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
@@ -81,24 +81,23 @@ url = "mailto:kevinjlasher@gmail.com"
 
 ## Menu items
 
+# hugo -e prod => public/ || docs/
+# serve public
 [menu]
 
   [[menu.main]]
   name = "Home"
-  identifier = "home"
   weight = 100
   url = "/"
 
   [[menu.main]]
   name = "Posts"
   weight = 200
-  identifier = "posts"
   url = "/post/"
 
   [[menu.main]]
   name = "About"
   weight = 300
-  identifier = "about"
   url = "/about/"
 
   # [[menu.main]]
