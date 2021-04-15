@@ -25,7 +25,7 @@ title = "Kevin Lasher"
 author = "Kevin Lasher"
 #copyright = "2020-2021"
 description = "Front End Developer"
-profilePicture = "images/profile.jpg"
+profilePicture = "images/profile.jpeg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -101,8 +101,8 @@ url = "mailto:kevinjlasher@gmail.com"
   identifier = "about"
   url = "/about/"
 
-  [[menu.main]]
-  name = "Contact"
-  weight = 400
-  identifier = "contact"
-  url = "/contact/"
+  # [[menu.main]]
+  # name = "Contact"
+  # weight = 400
+  # identifier = "contact"
+  # url = "/contact/"
