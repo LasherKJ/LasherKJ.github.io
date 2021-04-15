@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Front End Developer</title>
-    <link>LasherKJ.github.io/</link>
+    <link>https://LasherKJ.github.io/</link>
     <description>Recent content on Front End Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="LasherKJ.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://LasherKJ.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>LasherKJ.github.io/archives/</link>
+      <link>https://LasherKJ.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>LasherKJ.github.io/archives/</guid>
+      <guid>https://LasherKJ.github.io/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>LasherKJ.github.io/contact/</link>
+      <link>https://LasherKJ.github.io/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>LasherKJ.github.io/contact/</guid>
+      <guid>https://LasherKJ.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>LasherKJ.github.io/about/</link>
+      <link>https://LasherKJ.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>LasherKJ.github.io/about/</guid>
+      <guid>https://LasherKJ.github.io/about/</guid>
       <description>I am web developer and front end engineer, with over 7 years experience in software development and broadcast TV.</description>
     </item>
     
     <item>
       <title>Bumpass</title>
-      <link>LasherKJ.github.io/post/bumpass/</link>
+      <link>https://LasherKJ.github.io/post/bumpass/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>LasherKJ.github.io/post/bumpass/</guid>
+      <guid>https://LasherKJ.github.io/post/bumpass/</guid>
       <description>Hello World Testing</description>
     </item>
     
