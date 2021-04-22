@@ -1,7 +1,7 @@
 ---
 title: "Bumpass"
 description: "The simplest navigation aid possible"
-date: "2019-02-28"
+date: "2021-04-19"
 aliases: ["about-us", "about-hugo", "contact"]
 author: "Kevin Lasher"
 draft: false
