@@ -20,5 +20,9 @@ The website was written in [Hugo](https://gohugo.io/) (Like this one is), becaus
 
 ## Hosting the website 
 
-For the time being [docs.nobrolla.com](https://docs.nobrolla.com) is still up. It is hosted on [Aerobatic](https://www.aerobatic.com/), a command-line tool and hosting service.
+For the time being [docs.nobrolla.com](https://docs.nobrolla.com) is still up. It is hosted on [Aerobatic](https://www.aerobatic.com/), a command-line tool and hosting service. The source code was hosted on bitbucket, and using bitbucket pipelines any commits to the master branch triggered aerobatic-cli commands and updated the production website.
+
+## Source Code
+
+The source code has been migrated to my [personal github](https://github.com/LasherKJ/Nobrolla_Documentation) as the project has been shuttered.
 
